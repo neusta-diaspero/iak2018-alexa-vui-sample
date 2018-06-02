@@ -7,3 +7,6 @@
 
 Diese Ordner enthalten den Quellcode für das im Workshop 'Building an Alexa VUI Prototype' genutzte Beispiel eines Skills für Amazon Alexa.
 
+Brötchentüte ist der Auftakt eines VUI Prototypen mit den folgenden Intents:
+* Eine neue Bestellung aufgeben
+* Eine bestehende Bestellung abfragen
