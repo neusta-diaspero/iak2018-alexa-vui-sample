@@ -1,0 +1,10 @@
+{
+  "name": "iak2018-alexa-vui-sample",
+  "version": "1.0.0",
+  "description": "Sample files for Workshop 'Building an Alexa VUI Prototype' at IA Konferenz 2018.",
+  "main": "src/index.js",
+  "author": "Claudio Diaspero",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
